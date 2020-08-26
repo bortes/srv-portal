@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Coming Soon 9</title>
+	<title>Silk Road Vault</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -30,7 +30,7 @@
 		<!--  -->
 		<div class="w-full flex-w flex-sb-m p-l-80 p-r-80 p-t-22 p-lr-15-sm">
 			<div class="wrappic1 m-r-30 m-t-10 m-b-10">
-				<a href="#"><img src="images/icons/logo.png" alt="LOGO"></a>
+
 			</div>
 
 			<div class="flex-w m-t-10 m-b-10">
@@ -108,11 +108,6 @@
 	</script>
 <!--===============================================================================================-->
 	<script src="vendor/tilt/tilt.jquery.min.js"></script>
-	<script >
-		$('.js-tilt').tilt({
-			scale: 1.1
-		})
-	</script>
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
 
